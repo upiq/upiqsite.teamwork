@@ -1,0 +1,13 @@
+<metadata>
+  <version>1</version>
+  <dependencies>
+    <dependency>profile-collective.teamwork:default</dependency>
+    <dependency>profile-uu.formlibrary:default</dependency>
+    <dependency>profile-uu.chart:default</dependency>
+    <dependency>profile-uu.eventintegration:default</dependency>
+    <dependency>profile-collective.inviting:default</dependency>
+    <dependency>profile-uu.staticmap:default</dependency>
+    <dependency>profile-Products.CMFPlacefulWorkflow:CMFPlacefulWorkflow</dependency>
+    <dependency>profile-plone.app.iterate:plone.app.iterate</dependency>
+  </dependencies>
+</metadata>

@@ -1,0 +1,19 @@
+<configure
+  xmlns="http://namespaces.zope.org/zope"
+  xmlns:cmf="http://namespaces.zope.org/cmf"
+  xmlns:genericsetup="http://namespaces.zope.org/genericsetup"
+  i18n_domain="upiqsite.teamwork">
+    
+    <!-- register extension profiles for add-on --> 
+    <genericsetup:registerProfile
+        name="default"
+        title="UPIQ QI Teamspace site, using collective.teamwork core."
+        directory="profiles/default"
+        description="Core site policy for UPIQ QI Teamspace collective.teamwork sites."
+        provides="Products.GenericSetup.interfaces.EXTENSION"
+        />  
+
+    <!-- register FS directory view for skins layer -->
+    <cmf:registerDirectory name="upiqsite_teamwork" /> 
+
+</configure>

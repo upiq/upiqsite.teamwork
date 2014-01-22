@@ -1,0 +1,11 @@
+Changelog
+=========
+
+0.1 (unreleased)
+----------------
+
+- Initial package for site policy common to Teamspace sites.
+  [seanupton]
+
+
+
