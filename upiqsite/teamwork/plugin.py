@@ -1,4 +1,4 @@
-from zope.interface import queryUtility
+from zope.component import queryUtility
 
 from collective.teamwork.user.config import add_workgroup_type
 from collective.teamwork.user.interfaces import IWorkgroupTypes
