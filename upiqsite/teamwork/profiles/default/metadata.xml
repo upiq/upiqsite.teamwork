@@ -1,7 +1,7 @@
 <metadata>
   <version>1</version>
   <dependencies>
-    <dependency>profile-collective.teamwork:default</dependency>
+    <dependency>profile-collective.teamwork:team</dependency>
     <dependency>profile-uu.formlibrary:default</dependency>
     <dependency>profile-uu.chart:default</dependency>
     <dependency>profile-uu.eventintegration:default</dependency>
